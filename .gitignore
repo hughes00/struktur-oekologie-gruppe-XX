@@ -1,3 +1,13 @@
 .env
 .venv/
 __pycache__/
+
+# Local app runtime and secrets
+.env.*
+!.env.example
+.runtime/
+*.pyc
+*.3dmbak
+*.rhl
+
+# The source .3dm may be committed locally, but must ONLY be pushed to a private repository.

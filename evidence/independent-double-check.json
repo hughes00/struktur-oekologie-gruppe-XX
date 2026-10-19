@@ -1,0 +1,78 @@
+{
+  "groups": {
+    "steel": {
+      "n": 671,
+      "volume": 0.846112251620927,
+      "mass": 6641.981175224341,
+      "carbon": 3721.418465064909,
+      "solid": 1.2955973407778696
+    },
+    "unresolved": {
+      "n": 18,
+      "volume": 0.01966968301118348,
+      "mass": 154.4070116377904,
+      "carbon": 86.51230545304288,
+      "solid": 0.01956705857808201
+    },
+    "concrete": {
+      "n": 47,
+      "volume": 11.755861996905725,
+      "mass": 28214.06879257376,
+      "carbon": 2127.811021439937,
+      "solid": 11.738228203910355
+    }
+  },
+  "rebar_mass_kg": 999.2482697369867,
+  "rebar_A1A3_kgCO2e": 592.5542239540331,
+  "known_A1A3_subtotal": 6441.783710458879,
+  "conditional_total_if_18_are_steel": 6528.296015911922,
+  "unresolved_steel_sensitivity_percent": 1.342986808336665,
+  "factors": {
+    "concrete_alternative": {
+      "A1A3": 98.93936457615193,
+      "amount": 1.0,
+      "unit": "m3",
+      "per_unit": 98.93936457615193
+    },
+    "concrete_default": {
+      "A1A3": 181.0,
+      "amount": 1.0,
+      "unit": "m3",
+      "per_unit": 181.0
+    },
+    "rebar_default": {
+      "A1A3": 0.593,
+      "amount": 1.0,
+      "unit": "kg",
+      "per_unit": 0.593
+    },
+    "steel_alternative": {
+      "A1A3": 2528.98448544598,
+      "amount": 1000.0,
+      "unit": "kg",
+      "per_unit": 2.52898448544598
+    },
+    "steel_default": {
+      "A1A3": 560.287415289044,
+      "amount": 1000.0,
+      "unit": "kg",
+      "per_unit": 0.560287415289044
+    }
+  },
+  "axis_length_mismatches": [],
+  "quantity_mismatches": [],
+  "bounds": [
+    [
+      7.0,
+      16.0
+    ],
+    [
+      -12.5,
+      2.5
+    ],
+    [
+      0.2599999999999998,
+      4.425
+    ]
+  ]
+}

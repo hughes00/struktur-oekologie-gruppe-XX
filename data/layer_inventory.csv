@@ -1,0 +1,331 @@
+layer_index,full_path,visible,locked,deleted,object_count
+0,1__EXTERN,True,False,False,0
+1,1__EXTERN::__REF_point,True,False,False,0
+2,1__EXTERN::2D,True,False,False,0
+3,1__EXTERN::2D::yymmdd,True,False,False,0
+4,1__EXTERN::2D::yymmdd::original file name,True,False,False,0
+5,1__EXTERN::3D,True,False,False,0
+6,1__EXTERN::3D::yymmdd,True,False,False,0
+7,1__EXTERN::3D::yymmdd::original file name,True,False,False,0
+8,2__B+G,True,False,False,3
+9,2__B+G::00_WORK,True,False,False,0
+10,2__B+G::00_WORK::clipping planes,True,False,False,0
+11,2__B+G::00_WORK::comments,True,False,False,0
+12,2__B+G::00_WORK::dimensions,True,False,False,0
+13,2__B+G::00_WORK::help,True,False,False,0
+14,2__B+G::01_GH,True,False,False,0
+15,2__B+G::01_GH::yymmdd,True,False,False,0
+16,2__B+G::01_GH::yymmdd::GH_bake,True,False,False,0
+17,2__B+G::01_GH::yymmdd::GH_bake::01-Karamba,True,False,False,0
+18,2__B+G::01_GH::yymmdd::GH_bake::01-Karamba::CS,True,False,False,0
+19,2__B+G::01_GH::yymmdd::GH_bake::01-Karamba::Deformation,True,False,False,0
+20,2__B+G::01_GH::yymmdd::GH_bake::01-Karamba::Utilisation,True,False,False,0
+21,2__B+G::01_GH::yymmdd::GH_input,True,False,False,0
+22,2__B+G::01_GH::yymmdd::GH_input::01-CRVS,True,False,False,0
+23,2__B+G::01_GH::yymmdd::GH_input::01-PTS,True,False,False,0
+24,2__B+G::01_GH::yymmdd::GH_input::01-SRFS,True,False,False,0
+25,2__B+G::02_AXES MODEL,True,False,False,0
+26,2__B+G::02_AXES MODEL::Structure,True,False,False,0
+27,2__B+G::02_AXES MODEL::Structure::Support,True,False,False,0
+28,2__B+G::02_AXES MODEL::Structure::Support::Tx|Ty|Tz,True,False,False,0
+29,2__B+G::02_AXES MODEL::Structure::Support::Tx|Ty|Tz|Rx|Ry|Rz,True,False,False,0
+30,2__B+G::02_AXES MODEL::Structure::Support::Tz,True,False,False,0
+31,2__B+G::02_AXES MODEL::Structure::Element,True,False,False,0
+32,2__B+G::02_AXES MODEL::Structure::Element::Beam,True,False,False,0
+33,2__B+G::02_AXES MODEL::Structure::Element::Bracing,True,False,False,0
+34,2__B+G::02_AXES MODEL::Structure::Element::Column,True,False,False,0
+35,2__B+G::02_AXES MODEL::Structure::Element::Core,True,False,False,0
+36,2__B+G::02_AXES MODEL::Structure::Element::Core Coupling,True,False,False,0
+37,2__B+G::02_AXES MODEL::Structure::Element::Slab,True,False,False,0
+38,2__B+G::02_AXES MODEL::Structure::Element::Truss Chord,True,False,False,0
+39,2__B+G::02_AXES MODEL::Structure::Element::Truss Diagonal,True,False,False,0
+40,2__B+G::02_AXES MODEL::Structure::Element::Truss Vertical,True,False,False,0
+41,2__B+G::02_AXES MODEL::Structure::Element::Wall,True,False,False,0
+42,2__B+G::02_AXES MODEL::Structure::Load,True,False,False,0
+43,2__B+G::02_AXES MODEL::Structure::Load::Facade_East,True,False,False,0
+44,2__B+G::02_AXES MODEL::Structure::Load::Facade_North,True,False,False,0
+45,2__B+G::02_AXES MODEL::Structure::Load::Facade_South,True,False,False,0
+46,2__B+G::02_AXES MODEL::Structure::Load::Facade_West,True,False,False,0
+47,2__B+G::02_AXES MODEL::Structure::Load::Roof,True,False,False,0
+48,2__B+G::02_AXES MODEL::Structure::Load::Slab,True,False,False,0
+49,2__B+G::03_3D,True,False,False,0
+50,2__B+G::03_3D::yymmdd,True,False,False,0
+51,2__B+G::03_3D::yymmdd::ELEMENTS,True,False,False,0
+52,2__B+G::03_3D::yymmdd::ELEMENTS::03-beam,True,False,False,0
+53,2__B+G::03_3D::yymmdd::ELEMENTS::03-beam::00,True,False,False,0
+54,2__B+G::03_3D::yymmdd::ELEMENTS::03-beam::01,True,False,False,0
+55,2__B+G::03_3D::yymmdd::ELEMENTS::03-beam::02,True,False,False,0
+56,2__B+G::03_3D::yymmdd::ELEMENTS::03-beam::03,True,False,False,0
+57,2__B+G::03_3D::yymmdd::ELEMENTS::03-bracing,True,False,False,0
+58,2__B+G::03_3D::yymmdd::ELEMENTS::03-column,True,False,False,0
+59,2__B+G::03_3D::yymmdd::ELEMENTS::03-column::00,True,False,False,0
+60,2__B+G::03_3D::yymmdd::ELEMENTS::03-column::01,True,False,False,0
+61,2__B+G::03_3D::yymmdd::ELEMENTS::03-column::02,True,False,False,0
+62,2__B+G::03_3D::yymmdd::ELEMENTS::03-column::03,True,False,False,0
+63,2__B+G::03_3D::yymmdd::ELEMENTS::03-core,True,False,False,0
+64,2__B+G::03_3D::yymmdd::ELEMENTS::03-core::00,True,False,False,0
+65,2__B+G::03_3D::yymmdd::ELEMENTS::03-core::01,True,False,False,0
+66,2__B+G::03_3D::yymmdd::ELEMENTS::03-core::02,True,False,False,0
+67,2__B+G::03_3D::yymmdd::ELEMENTS::03-core::03,True,False,False,0
+68,2__B+G::03_3D::yymmdd::ELEMENTS::03-core coupling,True,False,False,0
+69,2__B+G::03_3D::yymmdd::ELEMENTS::03-foundation,True,False,False,0
+70,2__B+G::03_3D::yymmdd::ELEMENTS::03-foundation::00,True,False,False,0
+71,2__B+G::03_3D::yymmdd::ELEMENTS::03-foundation::01,True,False,False,0
+72,2__B+G::03_3D::yymmdd::ELEMENTS::03-other element,True,False,False,0
+73,2__B+G::03_3D::yymmdd::ELEMENTS::03-slab,True,False,False,0
+74,2__B+G::03_3D::yymmdd::ELEMENTS::03-slab::00,True,False,False,0
+75,2__B+G::03_3D::yymmdd::ELEMENTS::03-slab::01,True,False,False,0
+76,2__B+G::03_3D::yymmdd::ELEMENTS::03-slab::02,True,False,False,0
+77,2__B+G::03_3D::yymmdd::ELEMENTS::03-slab::03,True,False,False,0
+78,2__B+G::03_3D::yymmdd::ELEMENTS::03-truss chord,True,False,False,0
+79,2__B+G::03_3D::yymmdd::ELEMENTS::03-truss diagonal,True,False,False,0
+80,2__B+G::03_3D::yymmdd::ELEMENTS::03-truss vertical,True,False,False,0
+81,2__B+G::03_3D::yymmdd::ELEMENTS::03-wall,True,False,False,0
+82,2__B+G::03_3D::yymmdd::ELEMENTS::03-wall::00,True,False,False,0
+83,2__B+G::03_3D::yymmdd::ELEMENTS::03-wall::01,True,False,False,0
+84,2__B+G::03_3D::yymmdd::ELEMENTS::03-wall::02,True,False,False,0
+85,2__B+G::03_3D::yymmdd::ELEMENTS::03-wall::03,True,False,False,0
+86,2__B+G::03_3D::yymmdd::MATERIALS,True,False,False,0
+87,2__B+G::03_3D::yymmdd::MATERIALS::03_concrete,True,False,False,0
+88,2__B+G::03_3D::yymmdd::MATERIALS::03_concrete::00,True,False,False,0
+89,2__B+G::03_3D::yymmdd::MATERIALS::03_concrete::01,True,False,False,0
+90,2__B+G::03_3D::yymmdd::MATERIALS::03_concrete::02,True,False,False,0
+91,2__B+G::03_3D::yymmdd::MATERIALS::03-default,True,False,False,0
+92,2__B+G::03_3D::yymmdd::MATERIALS::03-glass,True,False,False,0
+93,2__B+G::03_3D::yymmdd::MATERIALS::03-steel,True,False,False,0
+94,2__B+G::03_3D::yymmdd::MATERIALS::03-steel::00,True,False,False,0
+95,2__B+G::03_3D::yymmdd::MATERIALS::03-steel::01,True,False,False,0
+96,2__B+G::03_3D::yymmdd::MATERIALS::03-steel::02,True,False,False,0
+97,2__B+G::03_3D::yymmdd::MATERIALS::03-steel::03,True,False,False,0
+98,2__B+G::03_3D::yymmdd::MATERIALS::03-timber,True,False,False,0
+99,2__B+G::03_3D::yymmdd::MATERIALS::03-timber::00,True,False,False,0
+100,2__B+G::03_3D::yymmdd::MATERIALS::03-timber::01,True,False,False,0
+101,2__B+G::03_3D::yymmdd::MATERIALS::03-timber::02,True,False,False,0
+102,2__B+G::03_3D::yymmdd::IFC,True,False,False,0
+103,2__B+G::03_3D::yymmdd::IFC::Project,True,False,False,0
+104,2__B+G::03_3D::yymmdd::IFC::Project::Site,True,False,False,0
+105,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building,True,False,False,0
+106,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 0,True,False,False,0
+107,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 0::Slab,True,False,False,0
+108,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 0::Wall,True,False,False,0
+109,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 0::Column,True,False,False,0
+110,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 0::Beam,True,False,False,0
+111,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 1,True,False,False,0
+112,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 1::Slab,True,False,False,0
+113,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 1::Wall,True,False,False,0
+114,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 1::Column,True,False,False,0
+115,2__B+G::03_3D::yymmdd::IFC::Project::Site::Building::Level 1::Beam,True,False,False,0
+116,2__B+G::03_3D::RFEM_Export_260915,True,False,False,0
+117,2__B+G::03_3D::RFEM_Export_260915::Members,True,False,False,0
+118,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 275/12,True,False,False,70
+119,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 275/20,True,False,False,41
+120,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 162.5/12,True,False,False,35
+121,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 12/200,True,False,False,0
+122,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 20/200,True,False,False,0
+123,2__B+G::03_3D::RFEM_Export_260915::Members::RO 139.7x8.0 | EN 10210-2:2006,True,False,False,12
+124,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 162.5/20,True,False,False,18
+125,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 175/20,True,False,False,23
+126,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 175/12,True,False,False,35
+127,2__B+G::03_3D::RFEM_Export_260915::Members::Rectangle 500/500,True,False,False,47
+128,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 225/20,True,False,False,23
+129,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 225/12,True,False,False,35
+130,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 237.5/20,True,False,False,18
+131,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 200/20,True,False,False,18
+132,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 200/12,True,False,False,35
+133,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 237.5/12,True,False,False,35
+134,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 33.3/20,True,False,False,116
+135,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 24/200,True,False,False,0
+136,2__B+G::03_3D::RFEM_Export_260915::Members::Flat Bar 20/33.3,True,False,False,0
+137,2__B+G::03_3D::RFEM_Export_260915::MemberAxes,True,False,False,0
+138,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 275/12,True,False,False,70
+139,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::RD 12,True,False,False,175
+140,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 275/20,True,False,False,41
+141,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 162.5/12,True,False,False,35
+142,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 12/200,True,False,False,0
+143,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 20/200,True,False,False,0
+144,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::RO 139.7x8.0 | EN 10210-2:2006,True,False,False,12
+145,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 162.5/20,True,False,False,18
+146,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 175/20,True,False,False,23
+147,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 175/12,True,False,False,35
+148,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Rectangle 500/500,True,False,False,47
+149,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 225/20,True,False,False,23
+150,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 225/12,True,False,False,35
+151,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 237.5/20,True,False,False,18
+152,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 200/20,True,False,False,18
+153,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 200/12,True,False,False,35
+154,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 237.5/12,True,False,False,35
+155,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 33.3/20,True,False,False,116
+156,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 24/200,True,False,False,0
+157,2__B+G::03_3D::RFEM_Export_260915::MemberAxes::Flat Bar 20/33.3,True,False,False,0
+158,2__B+G::04_2D,True,False,False,0
+159,2__B+G::04_2D::yymmdd,True,False,False,0
+160,2__B+G::04_2D::yymmdd::00-LEVEL-XX,True,False,False,0
+161,2__B+G::04_2D::yymmdd::00-LEVEL-XX::annotations,True,False,False,0
+162,2__B+G::04_2D::yymmdd::00-LEVEL-XX::beams,True,False,False,0
+163,2__B+G::04_2D::yymmdd::00-LEVEL-XX::columns,True,False,False,0
+164,2__B+G::04_2D::yymmdd::00-LEVEL-XX::cores,True,False,False,0
+165,2__B+G::04_2D::yymmdd::00-LEVEL-XX::foundation,True,False,False,0
+166,2__B+G::04_2D::yymmdd::00-LEVEL-XX::hatches,True,False,False,0
+167,2__B+G::04_2D::yymmdd::00-LEVEL-XX::slab,True,False,False,0
+168,2__B+G::04_2D::yymmdd::00-LEVEL-XX::walls,True,False,False,0
+169,2__B+G::05_LAYOUTS,True,False,False,2
+170,2__B+G::05_LAYOUTS::Layout A0,True,False,False,22
+171,2__B+G::05_LAYOUTS::Layout A0::0,True,False,False,29
+172,2__B+G::05_LAYOUTS::Layout A0::A-ANNO-NOTE,True,False,False,851
+173,2__B+G::05_LAYOUTS::Layout A0::A-DETL-MEDM,True,False,False,3
+174,2__B+G::05_LAYOUTS::Layout A0::A-DETL-THIN,True,False,False,15
+175,2__B+G::05_LAYOUTS::Layout A0::G-ANNO-NPLT,True,False,False,36
+176,2__B+G::05_LAYOUTS::Layout A0::G-ANNO-REFR,True,False,False,0
+177,2__B+G::05_LAYOUTS::Layout A0::G-ANNO-SCHD,True,False,False,4
+178,2__B+G::05_LAYOUTS::Layout A0::G-ANNO-TEXT,True,False,False,59
+179,2__B+G::05_LAYOUTS::Layout A0::G-ANNO-TTLB,True,False,False,181
+180,2__B+G::05_LAYOUTS::Layout A1,True,False,False,1
+181,2__B+G::05_LAYOUTS::Layout A1::PLAN_R8,True,False,False,2
+182,2__B+G::05_LAYOUTS::Layout A1::Planrahmen-A1,True,False,False,0
+183,2__B+G::05_LAYOUTS::Layout A1::Stempel,True,False,False,46
+184,2__B+G::05_LAYOUTS::Layout A1::V-Faltmarken,True,False,False,13
+185,2__B+G::05_LAYOUTS::Layout A3,True,False,False,50
+186,2__B+G::05_LAYOUTS::Layout A3::txt_DE,False,False,False,37
+187,2__B+G::05_LAYOUTS::Layout A3::txt_EN,True,False,False,36
+188,2__B+G::05_LAYOUTS::Layout A4,True,False,False,52
+189,2__B+G::05_LAYOUTS::Layout A4::txt_DE,False,False,False,36
+190,2__B+G::05_LAYOUTS::Layout A4::txt_EN,True,False,False,36
+191,2__B+G::05_LAYOUTS::Layout_A3_detailed,True,False,False,1
+192,2__B+G::05_LAYOUTS::Layout_A3_detailed::txt_DE,True,False,False,0
+193,2__B+G::05_LAYOUTS::Layout_A3_detailed::txt_DE::0_2_Layout,True,False,False,51
+194,2__B+G::05_LAYOUTS::Layout_A3_detailed::txt_DE::0_3_Text,True,False,False,87
+195,2__B+G::05_LAYOUTS::Layout_A3_detailed::txt_DE::0_7_Logo,True,False,False,36
+196,2__B+G::06-DRAFTING,True,False,False,0
+197,2__B+G::06-DRAFTING::06-1_10,True,False,False,0
+198,2__B+G::06-DRAFTING::06-1_10::06-above,True,False,False,0
+199,2__B+G::06-DRAFTING::06-1_10::06-axes,True,False,False,0
+200,2__B+G::06-DRAFTING::06-1_10::06-dimension,True,False,False,0
+201,2__B+G::06-DRAFTING::06-1_10::06-hatches,True,False,False,0
+202,2__B+G::06-DRAFTING::06-1_10::06-hid,True,False,False,0
+203,2__B+G::06-DRAFTING::06-1_10::06-other,True,False,False,0
+204,2__B+G::06-DRAFTING::06-1_10::06-sec,True,False,False,0
+205,2__B+G::06-DRAFTING::06-1_10::06-text,True,False,False,0
+206,2__B+G::06-DRAFTING::06-1_10::06-vis,True,False,False,0
+207,2__B+G::06-DRAFTING::06-1_100,True,False,False,0
+208,2__B+G::06-DRAFTING::06-1_100::06-above,True,False,False,0
+209,2__B+G::06-DRAFTING::06-1_100::06-axes,True,False,False,0
+210,2__B+G::06-DRAFTING::06-1_100::06-dimension,True,False,False,0
+211,2__B+G::06-DRAFTING::06-1_100::06-hatches,True,False,False,0
+212,2__B+G::06-DRAFTING::06-1_100::06-hid,True,False,False,0
+213,2__B+G::06-DRAFTING::06-1_100::06-other,True,False,False,0
+214,2__B+G::06-DRAFTING::06-1_100::06-sec,True,False,False,0
+215,2__B+G::06-DRAFTING::06-1_100::06-text,True,False,False,0
+216,2__B+G::06-DRAFTING::06-1_100::06-vis,True,False,False,0
+217,2__B+G::06-DRAFTING::06-1_20,True,False,False,0
+218,2__B+G::06-DRAFTING::06-1_20::06-above,True,False,False,0
+219,2__B+G::06-DRAFTING::06-1_20::06-axes,True,False,False,0
+220,2__B+G::06-DRAFTING::06-1_20::06-dimension,True,False,False,0
+221,2__B+G::06-DRAFTING::06-1_20::06-hatches,True,False,False,0
+222,2__B+G::06-DRAFTING::06-1_20::06-hid,True,False,False,0
+223,2__B+G::06-DRAFTING::06-1_20::06-other,True,False,False,0
+224,2__B+G::06-DRAFTING::06-1_20::06-sec,True,False,False,0
+225,2__B+G::06-DRAFTING::06-1_20::06-text,True,False,False,0
+226,2__B+G::06-DRAFTING::06-1_20::06-vis,True,False,False,0
+227,2__B+G::06-DRAFTING::06-1_200,True,False,False,0
+228,2__B+G::06-DRAFTING::06-1_200::06-above,True,False,False,0
+229,2__B+G::06-DRAFTING::06-1_200::06-axes,True,False,False,0
+230,2__B+G::06-DRAFTING::06-1_200::06-dimension,True,False,False,0
+231,2__B+G::06-DRAFTING::06-1_200::06-hatches,True,False,False,0
+232,2__B+G::06-DRAFTING::06-1_200::06-hid,True,False,False,0
+233,2__B+G::06-DRAFTING::06-1_200::06-sec,True,False,False,0
+234,2__B+G::06-DRAFTING::06-1_200::06-secPlane,True,False,False,0
+235,2__B+G::06-DRAFTING::06-1_200::06-text,True,False,False,0
+236,2__B+G::06-DRAFTING::06-1_200::06-vis,True,False,False,0
+237,2__B+G::06-DRAFTING::06-1_5,True,False,False,0
+238,2__B+G::06-DRAFTING::06-1_5::06-above,True,False,False,0
+239,2__B+G::06-DRAFTING::06-1_5::06-axes,True,False,False,0
+240,2__B+G::06-DRAFTING::06-1_5::06-dimension,True,False,False,0
+241,2__B+G::06-DRAFTING::06-1_5::06-hatches,True,False,False,0
+242,2__B+G::06-DRAFTING::06-1_5::06-hid,True,False,False,0
+243,2__B+G::06-DRAFTING::06-1_5::06-other,True,False,False,0
+244,2__B+G::06-DRAFTING::06-1_5::06-sec,True,False,False,0
+245,2__B+G::06-DRAFTING::06-1_5::06-text,True,False,False,0
+246,2__B+G::06-DRAFTING::06-1_5::06-vis,True,False,False,0
+247,2__B+G::06-DRAFTING::06-1_50,True,False,False,0
+248,2__B+G::06-DRAFTING::06-1_50::06-above,True,False,False,0
+249,2__B+G::06-DRAFTING::06-1_50::06-axes,True,False,False,0
+250,2__B+G::06-DRAFTING::06-1_50::06-dimension,True,False,False,0
+251,2__B+G::06-DRAFTING::06-1_50::06-hatches,True,False,False,0
+252,2__B+G::06-DRAFTING::06-1_50::06-hid,True,False,False,0
+253,2__B+G::06-DRAFTING::06-1_50::06-other,True,False,False,0
+254,2__B+G::06-DRAFTING::06-1_50::06-sec,True,False,False,0
+255,2__B+G::06-DRAFTING::06-1_50::06-text,True,False,False,0
+256,2__B+G::06-DRAFTING::06-1_50::06-vis,True,False,False,0
+257,2__B+G::06-DRAFTING::06-1_500,True,False,False,0
+258,2__B+G::06-DRAFTING::06-1_500::06-above,True,False,False,0
+259,2__B+G::06-DRAFTING::06-1_500::06-axes,True,False,False,0
+260,2__B+G::06-DRAFTING::06-1_500::06-dimension,True,False,False,0
+261,2__B+G::06-DRAFTING::06-1_500::06-hatches,True,False,False,0
+262,2__B+G::06-DRAFTING::06-1_500::06-hid,True,False,False,0
+263,2__B+G::06-DRAFTING::06-1_500::06-other,True,False,False,0
+264,2__B+G::06-DRAFTING::06-1_500::06-sec,True,False,False,0
+265,2__B+G::06-DRAFTING::06-1_500::06-text,True,False,False,0
+266,2__B+G::06-DRAFTING::06-1_500::06-vis,True,False,False,0
+267,2__B+G::07_GRAPHICAL REFERENCE,True,False,False,0
+268,2__B+G::07_GRAPHICAL REFERENCE::1 - Hatches,True,False,False,0
+269,2__B+G::07_GRAPHICAL REFERENCE::1 - Hatches::1:10,True,False,False,0
+270,2__B+G::07_GRAPHICAL REFERENCE::1 - Hatches::1:100,True,False,False,0
+271,2__B+G::07_GRAPHICAL REFERENCE::1 - Hatches::1:200,True,False,False,0
+272,2__B+G::07_GRAPHICAL REFERENCE::1 - Hatches::1:5,True,False,False,0
+273,2__B+G::07_GRAPHICAL REFERENCE::1 - Hatches::1:50,True,False,False,0
+274,2__B+G::07_GRAPHICAL REFERENCE::1 - Hatches::1:500,True,False,False,0
+275,2__B+G::07_GRAPHICAL REFERENCE::2 - Colors,True,False,False,0
+276,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING,True,False,False,0
+277,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10,True,False,False,0
+278,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-above,True,False,False,0
+279,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-axes,True,False,False,0
+280,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-dimension,True,False,False,0
+281,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-hatches,True,False,False,0
+282,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-hid,True,False,False,0
+283,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-other,True,False,False,0
+284,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-sec,True,False,False,0
+285,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_10::06-vis,True,False,False,0
+286,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100,True,False,False,0
+287,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-above,True,False,False,0
+288,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-axes,True,False,False,0
+289,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-dimension,True,False,False,0
+290,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-hatches,True,False,False,0
+291,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-hid,True,False,False,0
+292,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-other,True,False,False,0
+293,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-sec,True,False,False,0
+294,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_100::06-vis,True,False,False,0
+295,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_20,True,False,False,0
+296,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_20::06-above,True,False,False,0
+297,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_20::06-axes,True,False,False,0
+298,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_20::06-hid,True,False,False,0
+299,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_20::06-other,True,False,False,0
+300,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_20::06-sec,True,False,False,0
+301,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_20::06-vis,True,False,False,0
+302,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5,True,False,False,0
+303,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5::06-above,True,False,False,0
+304,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5::06-axes,True,False,False,0
+305,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5::06-dimension,True,False,False,0
+306,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5::06-hid,True,False,False,0
+307,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5::06-other,True,False,False,0
+308,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5::06-sec,True,False,False,0
+309,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_5::06-vis,True,False,False,0
+310,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50,True,False,False,0
+311,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-above,True,False,False,0
+312,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-axes,True,False,False,0
+313,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-dimension,True,False,False,0
+314,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-hatches,True,False,False,0
+315,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-hid,True,False,False,0
+316,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-other,True,False,False,0
+317,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-sec,True,False,False,0
+318,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-text,True,False,False,0
+319,2__B+G::07_GRAPHICAL REFERENCE::3-DRAFTING::06-1_50::06-vis,True,False,False,0
+320,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/fundamente,True,False,False,0
+321,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/fundamente::Revit model,True,False,False,0
+322,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/fundamente::Revit model::Structural Framing,True,False,False,0
+323,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/roof,True,False,False,0
+324,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/roof::Revit model,True,False,False,0
+325,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/roof::Revit model::Structural Columns,True,False,False,0
+326,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/roof::Revit model::Structural Framing,True,False,False,0
+327,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/roof::Revit model::Struct Connection Plates,True,False,False,0
+328,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/roof::Revit model::Struct Connection Bolts,True,False,False,0
+329,Project 26 P0395 - Stockerau - Studie Pergola: Model revit/roof::Revit model::Generic Model,True,False,False,0

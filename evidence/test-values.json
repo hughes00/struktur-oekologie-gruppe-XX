@@ -1,0 +1,41 @@
+{
+  "hand_member": "1",
+  "hand_volume": 0.0025355332772416922,
+  "hand_mass": 19.903936226347284,
+  "hand_carbon_A1A3": 11.15192498233809,
+  "default_A1A3_known_subtotal": 6441.783710458879,
+  "alternative_A1A3_known_subtotal": 19517.832590160328,
+  "unresolved_members": 18,
+  "live_dataset_snapshots": {
+    "steel_default": {
+      "version": "00.03.000",
+      "fetched_at": "2026-10-19T11:24:19.826834+00:00",
+      "unit": "kg",
+      "quantity": 1000.0
+    },
+    "steel_alternative": {
+      "version": "00.03.000",
+      "fetched_at": "2026-10-19T11:24:19.797332+00:00",
+      "unit": "kg",
+      "quantity": 1000.0
+    },
+    "concrete_default": {
+      "version": "00.02.000",
+      "fetched_at": "2026-10-19T11:24:19.757315+00:00",
+      "unit": "m3",
+      "quantity": 1.0
+    },
+    "concrete_alternative": {
+      "version": "00.01.001",
+      "fetched_at": "2026-10-19T11:24:19.778314+00:00",
+      "unit": "m3",
+      "quantity": 1.0
+    },
+    "rebar_default": {
+      "version": "00.00.007",
+      "fetched_at": "2026-10-19T11:24:19.813322+00:00",
+      "unit": "kg",
+      "quantity": 1.0
+    }
+  }
+}

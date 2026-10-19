@@ -1,0 +1,60 @@
+[
+  {
+    "dataset": "concrete_alternative",
+    "matches_saved_factors_and_units": true,
+    "comment": [
+      {
+        "value": "Beton wird hergestellt durch Mischen von Zement,\ngrober und feiner Gesteinskörnung und Wasser, mit oder ohne Zugabe von Zusatzmitteln, Zusatzstoffen oder Fasern.\n\nDer Frischbeton wird in Schalungen eingebracht, verdichtet und erhärtet durch die Hydratation des Zements zu einem festen künstlichen Gestein.\n",
+        "lang": "de"
+      }
+    ]
+  },
+  {
+    "dataset": "concrete_default",
+    "matches_saved_factors_and_units": true,
+    "comment": [
+      {
+        "value": "Beton wird hergestellt durch Mischen von Zement, grober und feiner Gesteinskrnung und Wasser, mit oder ohne Zugabe von Zusatzmitteln und Zusatzstoffen.\n\nDer Frischbeton wird auf der Baustelle oder im Fertigteilwerk in Schalungen eingebracht, verdichtet und erhrtet in der gewnschten Form durch Hydratation des Zements zu einem festen knstlichen Gestein.\n\nDas deklarierte Produkt ist unbewehrter Beton, der als Transportbeton oder als Fertigteil auf die Baustelle geliefert wird. Bei bewehrten Bauteilen ist der Anteil des Bewehrungsstahls gesondert zu bercksichtigen.\n\nZur Berechnung der kobilanz des durchschnittlichen Betons wurden die kobilanzen fr Transportbeton und fr Fertigteilbeton fr die betrachtete Druckfestigkeitsklasse auf Grundlage der Produktionsdaten ermittelt. Die Durchschnittsbildung erfolgte gewichtet nach Produktionsvolumen von Transportbeton und Fertigteilbeton fr die Druckfestigkeitsklasse C25/30.\n\nber die Auswertung der Daten von sowohl Transportbeton- als auch Betonfertigteilherstellern sollen insbesondere Informationen fr frhe Planungsphasen, zu deren Zeitpunkt die Entscheidung, ob Transportbeton oder Fertigteile zur Ausfhrung kommen, noch nicht gefallen ist, kommuniziert werden. Dabei wird der aktuelle Produktionsanteil von Transportbeton und Fertigteilbeton in Deutschland in der kobilanzierung fr die Druckfestigkeitsklasse C25/30 statistisch bercksichtigt.",
+        "lang": "de"
+      }
+    ]
+  },
+  {
+    "dataset": "rebar_default",
+    "matches_saved_factors_and_units": true,
+    "comment": [
+      {
+        "value": "Diese EPD basiert auf der Ökobilanzierung von Betonstahl in Stäben der ESF Elbe-Stahlwerke Feralpi GmbH, welcher am betriebseigenen Produktionsstandort hergestellt wird. EPD Typ: von der Wiege bis zum Werkstor mit Optionen, den Modulen C1 bis C4 und Modul D. Für die zugrunde liegenden Informationen und Nachweise haftet der Deklarationsinhaber. Kiwa-Ecobility Experts haftet nicht für Herstellerangaben, Ökobilanzdaten und Nachweise.",
+        "lang": "de"
+      }
+    ]
+  },
+  {
+    "dataset": "steel_alternative",
+    "matches_saved_factors_and_units": true,
+    "comment": [
+      {
+        "value": "This EPD refers to heavy plates, hot rolled products produced on dedicated quarto plate mills. The declaration covers various steel grades in various delivery conditions (grades S235 to S960). The mean steel grades are structural steel grades, like low alloy structural steels, including weathering steels. Mean thickness value is at 20 mm but the declaration covers the whole range from 5 mm up to 510 mm. Width range is from 1000 mm up to 5200 mm. Weathering steels offer improved resistance to corrosion thanks to the addition of elements, like copper, chromium and nickel during manufacture. Additional alloying elements can be added to increase the steels tensile strength or make forming processes easier.",
+        "lang": "en"
+      },
+      {
+        "value": "Diese EPD bezieht sich auf Grobbleche, warmgewalzte Produkte, die auf speziellen Quartoblechwalzwerken hergestellt werden. Die Deklaration deckt verschiedene Stahlsorten in verschiedenen Lieferbedingungen ab (Güten S235 bis S960). Bei den Stahlsorten handelt es sich um Baustahlsorten, wie niedrig legierte Baustähle, einschließlich wetterfester Stähle. Die mittlere Dicke liegt bei 20 mm, aber die Deklaration deckt den gesamten Bereich von 5 mm bis zu 510 mm ab. Die Breite reicht von 1000 mm bis zu 5200 mm. Wetterfeste Stähle bieten dank der Zugabe von Elementen wie Kupfer, Chrom und Nickel während der Herstellung eine verbesserte Korrosionsbeständigkeit. Zusätzliche Legierungselemente können hinzugefügt werden, um die Zugfestigkeit des Stahls zu erhöhen oder die Umformung zu erleichtern.",
+        "lang": "de"
+      }
+    ]
+  },
+  {
+    "dataset": "steel_default",
+    "matches_saved_factors_and_units": true,
+    "comment": [
+      {
+        "value": "This EPD applies to structural steel sections and merchant bars that are 100 % recycled from scrap. It covers steel products of grades S235 to S500.",
+        "lang": "en"
+      },
+      {
+        "value": "Diese EPD gilt für Baustahlprofile und Stabstahl, die zu 100 % aus Schrott recycelt werden. Sie umfasst Stahlprodukte der Güteklassen S235 bis S500.",
+        "lang": "de"
+      }
+    ]
+  }
+]

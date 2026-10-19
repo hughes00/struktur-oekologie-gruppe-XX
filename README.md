@@ -24,3 +24,9 @@ Nicht im Repo, das legt jede:r lokal selbst an: `.venv` (VS Code: „Python: Cre
 ---
 
 **English:** This is the template for your group repo. Don't work here. Click **Use this template → Create a new repository**, choose your own account, name it `struktur-oekologie-gruppe-XX` with your group number instead of `XX`, select **Private**, then continue with “Stage 0” in OLAT. `.venv` and `.env` are created locally by each person and never go to GitHub.
+
+## Stockerau Carbon Atlas app
+
+The app files are now in this repository folder. Double-click **START_APP.vbs** on this laptop, or run `python launch.pyw`. See **APP_README.md** for the calculations, tests, data sources and presentation instructions.
+
+**Repository destination:** this checkout still points to the public course template. Do not push the project there. Set up your own private group repository before pushing any commit containing the model. Eighteen material assignments remain unresolved by user choice; no completion tags for unfinished stages are claimed.
